@@ -1,7 +1,7 @@
 # EDA Civil Engineering Concrete Dataset 
 ==============================
 
-### An Exploratory Analysis of the characteristic properties of Concrete using a Civil Engineering Dataset. 
+### An Exploratory Analysis of the characteristic properties of Concrete Using a Civil Engineering Dataset. 
 
 Project Organization
 ------------
@@ -22,7 +22,7 @@ Project Organization
     ├── figures            	<- Generated graphics and figures to be used in reporting
     │    				     
     │
-    ├── notebooks          	<- All codes ported to Jupyter Notebooks
+    ├── notebooks          	<- Optional script for Jupyter Notebooks for better visualization
     │
 	│
     ├── requirements.txt    	<- The requirements file for reproducing the analysis environment, e.g.
