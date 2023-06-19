@@ -57,4 +57,9 @@ Project Organization
 
 • seaborn 0.12.2
 
+## Research Scope
+A myriad of visualization techniques have been applied while analyzing the acquired dataset. Examples 
+include Bar charts, Histograms, Pearson Correlation Heatmaps, Covariance Matrix between features, and so forth.
+An additional Jupyter notebook has been added for better visualization of the codes as well as the figures.
+
 ![alt text](https://github.com/shahriar-rahman/EDA-Civil-Engineering-Concrete-Dataset/blob/main/img/img.JPG)
