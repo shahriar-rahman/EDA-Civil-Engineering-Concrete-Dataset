@@ -3,6 +3,13 @@
 
 ### An Exploratory Analysis of the characteristic properties of Concrete Using a Civil Engineering Dataset. 
 
+## Introduction
+The primary incentive of this research is to utilize various techniques from Data Analysis and Feature Engineering 
+concepts in order to acquire more readable and useable data that can be applied to various Machine Learning models 
+in the future to improve performance and add more convenience to the field of Civil Engineering.  
+
+![alt text](https://github.com/shahriar-rahman/EDA-Civil-Engineering-Concrete-Dataset/blob/main/img/Civil_Engineering.jpg)
+
 Project Organization
 ------------
 
@@ -39,8 +46,10 @@ Project Organization
 
 --------
 
+![alt text](https://github.com/shahriar-rahman/EDA-Civil-Engineering-Concrete-Dataset/blob/main/img/img.JPG)
+
 ## Modules Required:
-• python 3.11
+• Python 3.11
 
 • pandas 2.0.0
 
