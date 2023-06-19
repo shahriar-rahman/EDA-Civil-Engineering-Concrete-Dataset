@@ -46,8 +46,6 @@ Project Organization
 
 --------
 
-![alt text](https://github.com/shahriar-rahman/EDA-Civil-Engineering-Concrete-Dataset/blob/main/img/img.JPG)
-
 ## Modules Required:
 • Python 3.11
 
@@ -58,3 +56,5 @@ Project Organization
 • matplotlib 3.7.1
 
 • seaborn 0.12.2
+
+![alt text](https://github.com/shahriar-rahman/EDA-Civil-Engineering-Concrete-Dataset/blob/main/img/img.JPG)
