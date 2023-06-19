@@ -1,7 +1,7 @@
-EDA Civil Engineering Concrete Dataset 
+# EDA Civil Engineering Concrete Dataset 
 ==============================
 
-An Exploratory Analysis of the characteristic properties of Concrete using a Civil Engineering Dataset. 
+### An Exploratory Analysis of the characteristic properties of Concrete using a Civil Engineering Dataset. 
 
 Project Organization
 ------------
@@ -38,3 +38,12 @@ Project Organization
     └── tox.ini            	<- tox file with settings for running tox; see tox.readthedocs.io
 
 --------
+
+## Methods and Modules Required:
+• pandas 2.0.0
+
+• missingno 0.5.2
+
+• matplotlib 3.7.1
+
+• seaborn 0.12.2
