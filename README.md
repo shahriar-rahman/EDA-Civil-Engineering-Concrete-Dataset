@@ -39,7 +39,7 @@ Project Organization
 
 --------
 
-## Methods and Modules Required:
+## Modules Required:
 • pandas 2.0.0
 
 • missingno 0.5.2
