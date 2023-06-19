@@ -7,7 +7,7 @@ Project Organization
 ------------
 
     ├── LICENSE
-    ├── Makefile          	<- Makefile with commands 
+    ├── Makefile          	<- Makefile with commands.
     ├── README.md             	<- The top-level README for developers using this project.
     ├── data
     │    ├── filtered       		 <- Sanitized and filtered Data for better accessibility.
@@ -16,23 +16,23 @@ Project Organization
     │    └── raw            	<- The original, immutable data dump.
     │
 	|
-    ├── features                <- Scripts to construct a more readable features
+    ├── features                <- Scripts to construct a more readable and useable data.
     │
 	|
-    ├── figures            	<- Generated graphics and figures to be used in reporting
+    ├── figures            		<- Generated graphics and figures to be used in reporting (includes IDE and Notebooks generated graphs).
     │    				     
     │
-    ├── notebooks          	<- Optional script for Jupyter Notebooks for better visualization
+    ├── notebooks          	<- Additional script for Jupyter Notebooks for better visualization.
     │
 	│
     ├── requirements.txt    	<- The requirements file for reproducing the analysis environment, e.g.
     │                         				generated with `pip freeze > requirements.txt`
     │
-    ├── setup.py           	<- makes project pip installable (pip install -e .) so src can be imported
+    ├── setup.py           	<- makes project pip installable (pip install -e .) so src can be imported.
 	|
     │
 	|	
-    ├── visualization           <- Scripts to create exploratory and results oriented visualizations
+    ├── visualization           <- Create exploratory and results oriented visualizations.
     │ 
     │
     └── tox.ini            	<- tox file with settings for running tox; see tox.readthedocs.io
@@ -40,6 +40,8 @@ Project Organization
 --------
 
 ## Modules Required:
+• python 3.11
+
 • pandas 2.0.0
 
 • missingno 0.5.2
