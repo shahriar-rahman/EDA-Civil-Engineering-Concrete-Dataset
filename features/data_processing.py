@@ -56,10 +56,6 @@ class CompressiveStrength:
         title = "Pearson Correlation Heatmap for the modified Dataframe."
         self.plotting.pearson_correlation(self.df_filtered, title)
 
-        # data-mining
-        # feature selection pcr/rfe
-        # bayesian/svm
-
     @staticmethod
     def display_dataframe(name, df, contents):
         table = df.head(contents)
