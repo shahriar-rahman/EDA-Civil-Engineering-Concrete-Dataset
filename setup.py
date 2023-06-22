@@ -6,5 +6,5 @@ setup(
     version='0.1.0',
     description='A Deep Introspection on the characteristic properties of Concrete using a Civil Engineering Dataset. ',
     author='Shahriar',
-    license='CC0: Public Domain',
+    license='MIT License',
 )
